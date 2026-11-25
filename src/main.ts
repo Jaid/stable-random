@@ -1,5 +1,2 @@
-const stableRandom = () => {
-  return 'stable-random' // TODO Implement actual functionality
-}
-
-export default stableRandom
+export {default} from './StableRandom.ts'
+export type {Arrayable, BytesOptions, RollBooleanOptions, RollItemOptions, RollOptions, StableId, StableRandomOptions, StableSeed} from './StableRandom.ts'

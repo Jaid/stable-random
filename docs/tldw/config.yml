@@ -1,0 +1,4 @@
+installation:
+  type: production
+  packageManagers: [bun, npm]
+  version: false
