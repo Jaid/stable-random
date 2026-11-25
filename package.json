@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Jaid/stable-random.git"
+    "url": "git+https://github.com/Jaid/stable-random.git"
   },
   "scripts": {
     "test": "bun test --max-concurrency 1"
