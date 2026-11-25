@@ -1,6 +1,6 @@
 {
   "name": "stable-random",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "type": "module",
   "description": "Deterministic random rolls keyed by a seed, a chain of IDs and an index, independent of call order.",
   "keywords": ["deterministic", "prng", "procedural-generation", "random", "seeded"],
